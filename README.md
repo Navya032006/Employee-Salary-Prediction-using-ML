@@ -54,5 +54,56 @@ Employee-salary-prediction/
 ├── model_score.txt               # R² Score of the model
 ├── requirements.txt              # Python dependencies
 └── salary_predictor.pkl          # Trained model (pickle)
+```
+---
+
+## Screenshots
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/e621249a-1624-43c3-a8b9-6ee3eed31106" width="320" />
+  <img src="https://github.com/user-attachments/assets/8a1ef61f-b0e1-4f4a-b319-1f4e32d15bf3" width="320" />
+  <img src="https://github.com/user-attachments/assets/e9503591-d082-4147-8ef4-019496e2f7aa" width="320" />
+</p>
 
 ---
+
+## 📊 Model Information
+
+- **Algorithm**: Linear Regression  
+- **Metric 1**: R² Score *(stored in `model_score.txt`)*  
+- **Metric 2**: Mean Squared Error *(stored in `model_mse.txt`)*  
+- **Categorical Encoding**: LabelEncoder  
+- **Scaling**: StandardScaler
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Navya032006/Employee-Salary-Prediction-using-ML.git
+   cd Employee-Salary-Prediction-using-ML
+      
+2. **Create a Virtual Environment**
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate
+              
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+         
+4. **Run the Application Locally**
+   ```bash
+   streamlit run app.py
+
+---
+
+## 🌐 Live Deployment
+The project is deployed and available at:
+👉 https://employee-salary-prediction-using-ml-bynavya.streamlit.app/
+
+---
+
+## 📦 Dataset Source
+**Kaggle** :  [Salary Prediction for Beginners](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer/data)
