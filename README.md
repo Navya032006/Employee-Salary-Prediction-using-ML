@@ -60,9 +60,9 @@ Employee-salary-prediction/
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/e621249a-1624-43c3-a8b9-6ee3eed31106" width="320" />
-  <img src="https://github.com/user-attachments/assets/8a1ef61f-b0e1-4f4a-b319-1f4e32d15bf3" width="320" />
-  <img src="https://github.com/user-attachments/assets/e9503591-d082-4147-8ef4-019496e2f7aa" width="320" />
+  <img src="https://github.com/user-attachments/assets/e621249a-1624-43c3-a8b9-6ee3eed31106" width="300" />
+  <img src="https://github.com/user-attachments/assets/8a1ef61f-b0e1-4f4a-b319-1f4e32d15bf3" width="300" />
+  <img src="https://github.com/user-attachments/assets/e9503591-d082-4147-8ef4-019496e2f7aa" width="300" />
 </p>
 
 ---
