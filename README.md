@@ -1,9 +1,6 @@
-# 💼 Employee Salary Prediction Web Application
+# 💼 Employee Salary Prediction Web Application 
 
-A **Machine Learning-powered web app** that accurately predicts employee salaries based on inputs such as age, gender, education level, job title, and years of experience. Designed with a **modern UI using Streamlit**, and trained using **Linear Regression** from scikit-learn.
-
-🔗 [Live Demo](https://employee-salary-prediction-using-ml-bynavya.streamlit.app/)  
-📂 Dataset Source: *Kaggle – Salary Prediction for Beginners*
+A **Machine Learning-powered web application** that accurately predicts employee salaries based on inputs such as age, gender, education level, job title, and years of experience. Designed with a **modern UI using Streamlit**, and trained using **Linear Regression** from scikit-learn.
 
 ---
 
@@ -46,3 +43,16 @@ A **Machine Learning-powered web app** that accurately predicts employee salarie
 
 ## 📁 Project Structure
 
+**Overview**
+```bash
+Employee-salary-prediction/
+├── data/Salary Data.csv          # Dataset
+├── Employee-Salary-Model.ipynb   # Model training notebook
+├── app.py                        # Streamlit web application
+├── evaluation_plot.png           # Evaluation plot of model performance
+├── model_mse.txt                 # Mean Squared Error score
+├── model_score.txt               # R² Score of the model
+├── requirements.txt              # Python dependencies
+└── salary_predictor.pkl          # Trained model (pickle)
+
+---
